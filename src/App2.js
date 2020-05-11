@@ -1,9 +1,8 @@
-import React, { useState, useEffect } from "react";
+import React, { useState } from "react";
 import "./App.css";
 import L from "leaflet";
 import { Map, TileLayer, Marker, Popup } from "react-leaflet";
 import * as parkData from "./dummyData/dummyApiData.json";
-import userSwr from "swr";
 
 const myIcon = L.icon({
   iconUrl:
@@ -14,59 +13,45 @@ const myIcon = L.icon({
 });
 
 function App() {
-  const [crimes, setCrime] = useState(null);
-
-  useEffect(() => {
-    fetch(
-      `https://developer.nrel.gov/api/alt-fuel-stations/v1/nearest.json?api_key=DHmL7ezZEbesjbXp3yu9wnbTiPyQWNpN84AdmFUv&location=Denver+CO`
-    )
-      .then(response => response.json())
-      .then(data => {
-        setCrime(data);
-      });
-  }, []);
-
   const [activePark, setActivePark] = useState(null);
   return (
-    <>
-      {crimes ? (
-        <Map
-          className="map"
-          center={[crimes.latitude, crimes.longitude]}
-          zoom={15}
+    <Map className="map" center={[45.4, -75.7]} zoom={12}>
+      <TileLayer
+        attribution='&amp;copy <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+        url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
+      />
+
+      {parkData.features.map(park => (
+        <Marker
+          key={park.properties.PARK_ID}
+          position={[
+            park.geometry.coordinates[1],
+            park.geometry.coordinates[0]
+          ]}
+          onClick={() => {
+            setActivePark(park);
+          }}
+          icon={myIcon}
+        />
+      ))}
+
+      {activePark && (
+        <Popup
+          position={[
+            activePark.geometry.coordinates[1],
+            activePark.geometry.coordinates[0]
+          ]}
+          onClose={() => {
+            setActivePark(null);
+          }}
         >
-          <TileLayer
-            attribution='&amp;copy <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
-            url="https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png"
-          />
-
-          {crimes.fuel_stations.map(station => (
-            <Marker
-              key={station.id}
-              position={[station.latitude, station.longitude]}
-              icon={myIcon}
-              onClick={() => {
-                setActivePark(station);
-              }}
-            />
-          ))}
-
-          {activePark && (
-            <Popup
-              position={[activePark.latitude, activePark.longitude]}
-              onClose={() => {
-                setActivePark(null);
-              }}
-            >
-              <div>
-                <h2>{activePark.station_name}</h2>
-                <p>{activePark.intersection_directions}</p>
-              </div>
-            </Popup>
-          )}
-        </Map>
-      ) : null}
-    </>
+          <div>
+            <h2>{activePark.properties.NAME}</h2>
+            <p>{activePark.properties.DESCRIPTIO}</p>
+          </div>
+        </Popup>
+      )}
+    </Map>
   );
 }
 
