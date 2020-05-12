@@ -28,7 +28,45 @@
         "DESCRIPT_1": "Flat asphalt surface, 5 modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "indoor/outdoor temperature sensors",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "oil sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Rain sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 4,
+            "title": "fuel level",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 5,
+            "title": "oxygen sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 6,
+            "title": "wheel speed",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -58,7 +96,45 @@
         "DESCRIPT_1": "Flat asphalt surface, 10 modules, programs and skateboard camps in summer managed by the City",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 4,
+            "title": "GPS Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 5,
+            "title": "Anti thief sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 6,
+            "title": "Parking Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -88,7 +164,27 @@
         "DESCRIPT_1": "Concrete bowl, 7,000 ft2",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Motor Position censor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -118,7 +214,27 @@
         "DESCRIPT_1": "Flat surface, 5 modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Steering sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -148,7 +264,45 @@
         "DESCRIPT_1": "Flat surface, 5 modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 4,
+            "title": "GPS Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 5,
+            "title": "Anti thief sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 6,
+            "title": "Parking Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -178,7 +332,45 @@
         "DESCRIPT_1": "Large concrete bowl, street modules and vertical modules, 17,000 ft2",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 4,
+            "title": "GPS Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 5,
+            "title": "Anti thief sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 6,
+            "title": "Parking Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -208,7 +400,27 @@
         "DESCRIPT_1": "Flat asphalt surface, 5 modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -238,7 +450,45 @@
         "DESCRIPT_1": "Flat asphalt surface, 5 modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 4,
+            "title": "GPS Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 5,
+            "title": "Anti thief sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 6,
+            "title": "Parking Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -268,7 +518,45 @@
         "DESCRIPT_1": "Flat surface, 5 modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 4,
+            "title": "GPS Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 5,
+            "title": "Anti thief sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 6,
+            "title": "Parking Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -298,7 +586,27 @@
         "DESCRIPT_1": "Flat surface, 5 modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -328,7 +636,45 @@
         "DESCRIPT_1": "Flat surface, 5 modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 4,
+            "title": "GPS Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 5,
+            "title": "Anti thief sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 6,
+            "title": "Parking Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -358,7 +704,45 @@
         "DESCRIPT_1": "Flat concrete surface, 10 modules or more (large half-moon), programs and skateboard camps in summer managed by the City",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 4,
+            "title": "GPS Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 5,
+            "title": "Anti thief sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 6,
+            "title": "Parking Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -388,7 +772,45 @@
         "DESCRIPT_1": "Flat asphalt surface, 5 modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 4,
+            "title": "GPS Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 5,
+            "title": "Anti thief sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 6,
+            "title": "Parking Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -418,7 +840,45 @@
         "DESCRIPT_1": "Flat asphalt surface, 5 modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 4,
+            "title": "GPS Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 5,
+            "title": "Anti thief sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 6,
+            "title": "Parking Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -448,7 +908,27 @@
         "DESCRIPT_1": "Flat asphalt surface, 6 modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -478,7 +958,33 @@
         "DESCRIPT_1": "Flat asphalt surface, 5 modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 4,
+            "title": "GPS Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -508,7 +1014,39 @@
         "DESCRIPT_1": "Flat surface, 5 modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 4,
+            "title": "GPS Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 5,
+            "title": "Anti thief sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -538,7 +1076,45 @@
         "DESCRIPT_1": "Flat asphalt surface, 5 modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 4,
+            "title": "GPS Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 5,
+            "title": "Anti thief sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 6,
+            "title": "Parking Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -568,7 +1144,45 @@
         "DESCRIPT_1": "Flat asphalt survivor",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 4,
+            "title": "GPS Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 5,
+            "title": "Anti thief sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 6,
+            "title": "Parking Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -598,7 +1212,27 @@
         "DESCRIPT_1": "Flat concrete surface, 5 modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -628,7 +1262,45 @@
         "DESCRIPT_1": "Flat asphalt surface, 8 modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 4,
+            "title": "GPS Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 5,
+            "title": "Anti thief sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 6,
+            "title": "Parking Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -658,7 +1330,33 @@
         "DESCRIPT_1": "Flat surface, 5 modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 4,
+            "title": "GPS Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -688,7 +1386,39 @@
         "DESCRIPT_1": "Flat concrete surface, 10 modules or more",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 4,
+            "title": "GPS Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 5,
+            "title": "Anti thief sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -718,7 +1448,45 @@
         "DESCRIPT_1": "Flat surface, 5 modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 4,
+            "title": "GPS Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 5,
+            "title": "Anti thief sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 6,
+            "title": "Parking Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -748,7 +1516,45 @@
         "DESCRIPT_1": "Flat surface, 5 modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 3,
+            "title": "Radar Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 4,
+            "title": "GPS Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 5,
+            "title": "Anti thief sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 6,
+            "title": "Parking Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
@@ -778,7 +1584,21 @@
         "DESCRIPT_1": "Large concrete bowl, 10 modules or more, street modules and vertical modules",
         "PICTURE_LI": null,
         "PICTURE_DE": null,
-        "PICTURE__1": null
+        "PICTURE__1": null,
+        "sensorData": [
+          {
+            "sensor_id": 1,
+            "title": "Pessenger Occupancy Sensor",
+            "description": "",
+            "Car_ID": 960
+          },
+          {
+            "sensor_id": 2,
+            "title": "Oxygen Sensor",
+            "description": "",
+            "Car_ID": 960
+          }
+        ]
       },
       "geometry": {
         "type": "Point",
